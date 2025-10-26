@@ -1,2 +1,2 @@
 # AplikasiPerhitunganDiskon
-Tugas 3- Nor Aqifah (2310010196)
+Tugas 3 - Muhammad Fachrie Zaini (19631183)
